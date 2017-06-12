@@ -1,8 +1,0 @@
-  {
-	"depends": [],
-	"description": "HTTP tunnel server",
-	"name": "hts",
-	"tags": ["hts", "runtime"],
-	"title": "HTS",
-	"version": "1.0.0"
-  }

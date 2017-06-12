@@ -1,1 +1,0 @@
-{"version":"0.9.18","name":"linux","description":"linux PC","applications":["httpd","ssdp","lhost","sdcp","mqtt","hts","htc","monitor"],"target":"linux","libs":["lmedia.so","lsqlite.so","lbluetooth.so"],"tags":["linux","core"],"registry":{"url":"http:\/\/172.16.1.2\/node"}}

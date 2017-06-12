@@ -1,3 +1,0 @@
-#!/bin/sh
-
-rm /usr/lib/libbluetooth.so.3
