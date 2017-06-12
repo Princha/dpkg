@@ -1,0 +1,4 @@
+#!/usr/bin/env lnode
+
+local upgrade = require('ext/upgrade')
+upgrade.recovery()

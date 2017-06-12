@@ -1,0 +1,9 @@
+  {
+	"depends": [],
+	"description": "HTTP tunnel client",
+	"name": "htc",
+	"tags": ["htc", "runtime"],
+	"title": "HTC",
+	"version": "1.0.0"
+  }
+  
